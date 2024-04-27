@@ -14,10 +14,10 @@ navToggle.addEventListener("click", () => {
 // Function for Animated Text
 const textElement = document.getElementById('animatedText');
 const sentences = [
-  "I am a Web Developer.</>",
-  "I am in love with React.</>",
-  "I am a YouTuber.</>",
-  "I am a proud INDIAN.</>"
+  "I am a Web Developer </",
+  "I am in love with React </",
+  "I am a YouTuber </",
+  "I am a proud INDIAN </"
 ];
 let index = 0;
 let isDeleting = false;
