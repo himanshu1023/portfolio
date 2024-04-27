@@ -343,7 +343,7 @@ body {
 }
 
 .about__title {
-  font-size: var(--fs-xxl);
+/*   font-size: var(--fs-xxl); */
   margin-bottom: 3rem;
 }
 
